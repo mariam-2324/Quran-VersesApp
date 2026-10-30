@@ -90,7 +90,7 @@ Please check it out and share your feedback! 💬
 
 ## 🤲 Dua
 
-*May this app be a source of benefit for everyone. Aameen.*
+*May this app be a source of benefit for everyone. Aameen Summa Aameen.*
 
 ---
 
