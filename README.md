@@ -65,3 +65,33 @@ To run this project locally on your machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/quran-ayat-app.git](https://github.com/your-username/quran-ayat-app.git)
+
+
+## 🚀 Live Demo
+
+This app is **successfully deployed on Vercel**! 🎉
+
+👉 **[Click here to visit the app](https://quran-verses-app-virid.vercel.app)** 🌐
+
+Please check it out and share your feedback! 💬
+
+## 🌟 Features
+
+- 🔍 Search any Ayat by its number
+- 🕌 Beautiful Arabic text with Surah name
+- 🎨 Clean interface with a blurred background image
+- ⚡ Fast and responsive design
+
+## 🛠️ Built With
+
+- ⚛️ React
+- 🎨 Tailwind CSS
+- ▲ Vercel (deployment)
+
+## 🤲 Dua
+
+*May this app be a source of benefit for everyone. Aameen.*
+
+---
+
+Made with ❤️ by **Mariam**
